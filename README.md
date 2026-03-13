@@ -45,11 +45,3 @@
   <a href="mailto:luanbezz240@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-jos%C3%A9-16a13a2a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luanbezz/Luanbezz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luanbezz/Luanbezz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Luanbezz/Luanbezz/output/github-snake.svg" />
-</picture>
