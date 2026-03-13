@@ -32,12 +32,13 @@
 
 <br clear="both">
 
-<img align="right" height="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3gyZGx5cjlybm9kZ29raW43bjQzbjRsYWp5OTJtaTB1eDVoOGxjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3gyZGx5cjlybm9kZ29raW43bjQzbjRsYWp5OTJtaTB1eDVoOGxjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luanbezz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="15" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luanbezz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150
+    " alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Luanbezz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
