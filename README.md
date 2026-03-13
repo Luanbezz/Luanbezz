@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3gyZGx5cjlybm9kZ29raW43bjQzbjRsYWp5OTJtaTB1eDVoOGxjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3gyZGx5cjlybm9kZ29raW43bjQzbjRsYWp5OTJtaTB1eDVoOGxjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
