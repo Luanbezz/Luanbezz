@@ -6,7 +6,7 @@
   <tr>
     <td>
       <a href="https://github.com/Luanbezz">
-       <img src="https://streak-stats.demolab.com?user=Luanbezz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180em" alt="streak graph"  />
+       <img src="https://streak-stats.demolab.com?user=Luanbezz&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="180em" alt="streak graph"  />
       </a>
     </td>
     <td>
