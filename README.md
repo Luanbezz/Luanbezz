@@ -6,7 +6,7 @@
   <tr>
     <td>
       <a href="https://github.com/Luanbezz">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanbezz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+       <img src="https://streak-stats.demolab.com?user=Luanbezz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180em" alt="streak graph"  />
       </a>
     </td>
     <td>
